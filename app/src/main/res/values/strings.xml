@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="Question_One">1.What percentage of Atlanta is covered with shade trees?</string>
+    <string name="Question_Two">2.How many streets in Atlanta have Peachtree in the name?</string>
+    <string name="Question_Three">3.The city symbol of Atlanta is the rising Phoenix?</string>
+    <string name="Question_Four">4.Altanta was previously know as?</string>
+    <string name="Question_Five">5.The largest bas relief is on the side of Stone Mountain?</string>
+    <string name="Question_Six">6.What is the Varsity welcome?</string>
+    <string name="Question_Six_Answer_One">You want fries with that?</string>
+    <string name="Question_Six_Answer_Two">How do you want that?</string>
+    <string name="Question_Six_Answer_Three">"What'll ya have?"</string>
+    <string name="Question_Four_Answer_One">Terminus</string>
+    <string name="Question_Four_Answer_Two">Marthasville</string>
+    <string name="Question_Four_Answer_Three">Zombieland</string>
+    <string name="Question_Four_Answer_Four">Scarlett</string>
+    <string name= "q1answer">47.9%</string>
+    <string name= "q2answer">71</string>
+    <string name= "q3answer">Yes</string>
+    <string name= "q4answer1">Terminus</string>
+    <string name= "q4answer2">Marthasville</string>
+    <string name= "q5answer">True</string>
+    <string name= "q6answer">"What'll ya have?"</string>
+</resources>
